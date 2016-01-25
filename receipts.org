@@ -1,0 +1,19 @@
+-*- mode:org -*-
+
+
+    
+* Brain dump
+** gather receipt pictures
+** set up OpenCV
+** see if anyone else has done something like this
+*** http://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+*** http://www.jera.com/jbrewer/2014/09/computer-vision-challenge-4-ocr.html
+   
+
+
+
+* Steps
+** Edge detect side of receipt
+** detect contours
+** perspective transform
+** 
