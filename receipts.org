@@ -12,8 +12,11 @@
 
 
 
+
 * Steps
 ** Edge detect side of receipt
 ** detect contours
 ** perspective transform
-** 
+** detect lines
+** detect characters
+
